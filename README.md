@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @KATErinaRU
 - 👀 I’m interested in programing
-- 🌱 I’m currently learning programing and music
+- 🌱 I’m currently learning programing JAVASCRIPT
 
 <!---
 KATErinaRU/KATErinaRU is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
